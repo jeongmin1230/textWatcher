@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">textWatcher</string>
+    <string name="edit_text_hint">여기에 글자를 입력해주세요.</string>
+    <string name="textview_count">* / 80 바이트</string>
+</resources>
